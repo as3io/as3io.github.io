@@ -1,0 +1,6 @@
+{
+  "name": "as3",
+  "tagline": "Documentation for As3 projects",
+  "body": "### Welcome to as3.io\r\n\r\nHere you will find documentation and training documents for use with [as3](http://as3.com) products.\r\n\r\n#### modlr\r\n- [modlr documentation](http://github.com/as3io/modlr)\r\n- [modlr Symfony bundle documentation](http://github.com/as3io/As3ModlrBundle)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
